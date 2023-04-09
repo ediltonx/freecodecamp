@@ -3,3 +3,10 @@
     border-width: 1px;
     border-color: blue;
 }
+
+h1,h2,p {
+
+    text-align: center;
+}
+
+body{background-color: burlywood;}
