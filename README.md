@@ -1,5 +1,5 @@
-# freecodecamp
+# FreeCodeCamp
 
-Esse repositório é para praticar acerca do curso de web design responsivo, do site freecodecamp.org. 
+Esse repositório é para as praticas do curso de web design responsivo, disponível no site freecodecamp.org. 
 
-link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+- link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
